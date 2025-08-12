@@ -7,9 +7,8 @@
 @font-face {
     font-family: 'Young Serif Regular';
     src:
-    url(/recipe-page-main/assets/fonts/young-serif/YoungSerif-Regular.ttf) format(opentype);
+    url(/assets/fonts/young-serif/YoungSerif-Regular.ttf) format(opentype);
 }
-
 body {
     box-sizing: border-box;
     border: solid 200px #f3e5d8;
@@ -82,4 +81,5 @@ table strong {
     margin: 0px;
     border-radius: 10px;
 }
+
 
