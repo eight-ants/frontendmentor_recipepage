@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Outfit Thin';
     src:
-    url(/recipe-page-main/assets/fonts/outfit/Outfit-VariableFont_wght.ttf) format(truetype);
+    url(assets/fonts/outfit/Outfit-VariableFont_wght.ttf) format(truetype);
 }
 
 @font-face {
     font-family: 'Young Serif Regular';
     src:
-    url(/assets/fonts/young-serif/YoungSerif-Regular.ttf) format(opentype);
+    url(assets/fonts/young-serif/YoungSerif-Regular.ttf) format(opentype);
 }
 body {
     box-sizing: border-box;
@@ -81,5 +81,6 @@ table strong {
     margin: 0px;
     border-radius: 10px;
 }
+
 
 
